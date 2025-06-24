@@ -35,7 +35,10 @@ vectorstore = Weaviate.from_documents(
     documents,
     embeddings,
     client=client,
+    by_text=False,
 )
+
+
 
 
 
