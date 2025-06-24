@@ -6,3 +6,4 @@ langchain-weaviate==0.3.10
 python-dotenv==1.0.1
 pypdf==5.2.0
 rapidocr-onnxruntime
+sentence-transformers
